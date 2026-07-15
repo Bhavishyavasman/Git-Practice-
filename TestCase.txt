@@ -1,0 +1,5 @@
+Login Test Case
+1. Open Website
+2. Enter Username
+3. Enter Password
+4. Click Login Button
